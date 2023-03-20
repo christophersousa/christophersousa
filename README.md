@@ -10,7 +10,7 @@
 <img 
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=christophersousa&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+    width="40%"
   />
 <img 
      align="center" 
